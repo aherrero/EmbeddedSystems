@@ -1,0 +1,9 @@
+.\spaceinvaders.o: SpaceInvaders.c
+.\spaceinvaders.o: ..//tm4c123gh6pm.h
+.\spaceinvaders.o: Nokia5110.h
+.\spaceinvaders.o: Random.h
+.\spaceinvaders.o: TExaS.h
+.\spaceinvaders.o: images.h
+.\spaceinvaders.o: ADC.h
+.\spaceinvaders.o: Switch.h
+.\spaceinvaders.o: LED.h
